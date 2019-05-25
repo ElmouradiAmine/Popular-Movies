@@ -1,6 +1,6 @@
 # movie_bloc
 I followed this tutorial https://medium.com/flutter-community/flutter-login-tutorial-with-flutter-bloc-ea606ef701ad.
-Creating a flutter movie app that fetch popular data from this api www.themoviedb.org.
+Creating a flutter movie app that fetch popular movies from this api www.themoviedb.org.
 The whole purpose is to impelment the bloc pattern , a pattern that is recommanded by google.
 
 ![](https://github.com/ElmouradiAmine/Popular-Movies/blob/master/flutter_01.png)
